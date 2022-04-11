@@ -18,5 +18,5 @@ description: Уборщик
 {% endhint %}
 
 {% hint style="danger" %}
-Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons.md)!
+Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system.md)!
 {% endhint %}
