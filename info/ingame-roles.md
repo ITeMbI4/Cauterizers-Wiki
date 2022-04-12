@@ -24,19 +24,19 @@
 * Минимальный возраст **14 лет** (Возможны исключения);
 * Адекватность;
 * [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **20-го** на сервере;
-* ****[Карма](../scpsl-features/server-systems/karma-system.md) не ниже **0.5**.
+* [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **0.5**.
 
 #### **Критерии набора Ремесленников:**
 
 * Как минимум быть **Жителем** проекта;
 * [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **32-го** на сервере;
-* ****[Карма](../scpsl-features/server-systems/karma-system.md) не ниже **1.5**.
+* [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **1.5**.
 
 #### **Критерии набора Аристократов:**
 
 * Как минимум быть **Ремесленником** проекта;
 * [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **45-го** на сервере;
-* ****[Карма](../scpsl-features/server-systems/karma-system.md) не ниже **2**.
+* [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **2**.
 
 {% hint style="danger" %}
 Если **Житель/Ремесленник/Аристократ** не заходит на сервер **SCP:SL** в течение **14 дней**, а **Игрок** в течение **10 дней**, то он лишается своей роли!
