@@ -92,4 +92,3 @@
   * [📕 SCP-914-1](other/documents/scp-914-1.md)
   * [📘 Голубой куб](other/documents/blue-cube.md)
 * [🆒 \[SCP:SL\] Права ролей](other/scpsl-roles-permissions.md)
-* [👀 Ивенты](other/events.md)
