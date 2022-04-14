@@ -27,7 +27,6 @@
   * [🙄 SCP-279](scpsl-features/custom-scps/scp-279.md)
   * [👁 SCP-280](scpsl-features/custom-scps/scp-280.md)
   * [😇 SCP-343](scpsl-features/custom-scps/scp-343.md)
-  * [🔥 SCP-457](scpsl-features/custom-scps/scp-457.md)
   * [🥴 SCP-507](scpsl-features/custom-scps/scp-507.md)
   * [💉 SCP-542](scpsl-features/custom-scps/scp-542.md)
   * [🐶 SCP-682](scpsl-features/custom-scps/scp-682.md)
