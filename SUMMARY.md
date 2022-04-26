@@ -4,12 +4,10 @@
 
 ## Сервера <a href="#servers" id="servers"></a>
 
-* [🔫 \[SCP:SL\] Classic](servers/scpsl-classic/README.md)
-  * [📄 Правила сервера](servers/scpsl-classic/rules.md)
+* [🔫 \[SCP:SL\] Classic](servers/scpsl-classic.md)
 * [🎉 \[SCP:SL\] NoRules](servers/scpsl-norules.md)
 * [🎀 \[SCP:SL\] Sandbox](servers/scpsl-sandbox.md)
-* [🧟 \[Project Zomboid\] Survival](servers/zomboid-survival/README.md)
-  * [📄 Правила сервера](servers/zomboid-survival/rules.md)
+* [🧟 \[Project Zomboid\] Survival](servers/zomboid-survival.md)
 
 ## Информация <a href="#info" id="info"></a>
 
