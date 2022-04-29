@@ -70,7 +70,7 @@
   * [🛡 Система Кармы](scpsl-features/server-systems/karma-system.md)
   * [💎 Система Уровней](scpsl-features/server-systems/level-system.md)
   * [🌀 Система Сезонов](scpsl-features/server-systems/seasons-system.md)
-  * [🎛 Механники](scpsl-features/server-systems/mechanics/README.md)
+  * [🎛 Механики](scpsl-features/server-systems/mechanics/README.md)
     * [💼 Маршалл, Картер и Дарк Ltd.](scpsl-features/server-systems/mechanics/mc\&d.md)
     * [🔄 SCP Swap](scpsl-features/server-systems/mechanics/scp-swap.md)
     * [⬆ Улучшение SCP-207](scpsl-features/server-systems/mechanics/changed-scp-207.md)
