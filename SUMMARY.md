@@ -30,6 +30,7 @@
   * [🐶 SCP-682](scpsl-features/custom-scps/scp-682.md)
   * [🤯 SCP-914-1](scpsl-features/custom-scps/scp-914-1.md)
   * [💪 SCP-914-2](scpsl-features/custom-scps/scp-914-2.md)
+  * [😴 SCP-966](scpsl-features/custom-scps/scp-966.md)
   * [🐸 SCP-999](scpsl-features/custom-scps/scp-999.md)
   * [😖 SCP-1257-RU](scpsl-features/custom-scps/scp-1257-ru.md)
   * [🧑⚕ SCP-1338](scpsl-features/custom-scps/scp-1338.md)
