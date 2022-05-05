@@ -7,7 +7,6 @@
 * [🔫 \[SCP:SL\] Classic](servers/scpsl-classic.md)
 * [🎉 \[SCP:SL\] NoRules](servers/scpsl-norules.md)
 * [🎀 \[SCP:SL\] Sandbox](servers/scpsl-sandbox.md)
-* [🧟 \[Project Zomboid\] Survival](servers/zomboid-survival.md)
 
 ## Информация <a href="#info" id="info"></a>
 
@@ -83,6 +82,7 @@
 ## Особенности Discord сервера <a href="#discord-features" id="discord-features"></a>
 
 * [💎 Система Уровней](discord-features/level-system.md)
+* [🃏 Система карточек](discord-features/card-system.md)
 
 ## Прочее <a href="#other" id="other"></a>
 
