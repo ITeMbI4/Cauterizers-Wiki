@@ -50,7 +50,6 @@
     * [😋 Уборщик](scpsl-features/custom-classes/uniq-classes/janitor.md)
     * [🤪 Здоровяк/Карлик](scpsl-features/custom-classes/uniq-classes/big-small-boy.md)
     * [😐 Шпион Хаоса](scpsl-features/custom-classes/uniq-classes/chaos-spy.md)
-    * [🔗 Затерявшийся хаосит](scpsl-features/custom-classes/uniq-classes/lost-chaos.md)
   * [👥 Команды](scpsl-features/custom-classes/custom-teams/README.md)
     * [☠ Глобальная Оккультная Коалиция](scpsl-features/custom-classes/custom-teams/global-occult-coalition.md)
     * [😈 Длань Змея](scpsl-features/custom-classes/custom-teams/serpents-hand.md)
