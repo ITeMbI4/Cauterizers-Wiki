@@ -10,33 +10,49 @@
 
 ## Роли SCP:SL
 
-#### **Критерии набора Игроков:**
+<details>
+
+<summary>Критерии набора Игроков:</summary>
 
 * [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **7-го** на сервере;
 * [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **0**.
+
+</details>
 
 {% hint style="warning" %}
 Роль **Игрок** выдаётся самостоятельно. Присваивается командой `/promote` на нашем [Discord](https://discord.com/invite/376sEKP2tX) сервере.
 {% endhint %}
 
-#### **Критерии набора Жителей:**
+<details>
+
+<summary>Критерии набора Жителей:</summary>
 
 * Минимальный возраст **14 лет** (Возможны исключения);
 * Адекватность;
 * [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **20-го** на сервере;
 * [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **0.5**.
 
-#### **Критерии набора Ремесленников:**
+</details>
+
+<details>
+
+<summary>Критерии набора Ремесленников:</summary>
 
 * Как минимум быть **Жителем** проекта;
 * [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **32-го** на сервере;
 * [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **1.5**.
 
-#### **Критерии набора Аристократов:**
+</details>
+
+<details>
+
+<summary>Критерии набора Аристократов:</summary>
 
 * Как минимум быть **Ремесленником** проекта;
 * [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **45-го** на сервере;
 * [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **2**.
+
+</details>
 
 {% hint style="danger" %}
 Если **Житель/Ремесленник/Аристократ** не заходит на сервер **SCP:SL** в течение **14 дней**, а **Игрок** в течение **10 дней**, то он лишается своей роли!
