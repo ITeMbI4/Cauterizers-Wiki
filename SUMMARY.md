@@ -64,6 +64,8 @@
   * [🥶 Замороженная комната](scpsl-features/custom-rooms/freeze-room.md)
   * [🥵 Раскалённая комната](scpsl-features/custom-rooms/hot-room.md)
   * [🛑 Повреждённая комната](scpsl-features/custom-rooms/damaged-room.md)
+  * [🐍 Комната под Взором Змея](scpsl-features/custom-rooms/serpents-room.md)
+  * [♨ Коррозионная комната](scpsl-features/custom-rooms/corrosion-room.md)
   * [🏥 Комната с SCP-006](scpsl-features/custom-rooms/scp-006-room.md)
   * [🧟 Комната с SCP-008](scpsl-features/custom-rooms/scp-008-room.md)
   * [🦋 Комната с SCP-408](scpsl-features/custom-rooms/scp-408-room.md)
