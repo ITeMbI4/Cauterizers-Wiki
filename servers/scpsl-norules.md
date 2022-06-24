@@ -12,9 +12,5 @@ description: Возрастное ограничение 13+ | FF:OFF
 {% endhint %}
 
 {% hint style="info" %}
-**NoRules:**\
 **IP - scp.cauterizers.net:7778**
-
-**NoRules II:**\
-**IP - scp.cauterizers.net:7779**
 {% endhint %}
