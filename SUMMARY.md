@@ -50,6 +50,7 @@
     * [👾 Хакер](scpsl-features/custom-classes/uniq-classes/hacker.md)
     * [🥷 Шпион Хаоса](scpsl-features/custom-classes/uniq-classes/chaos-spy.md)
     * [🕵 Агент O5](scpsl-features/custom-classes/uniq-classes/o5-agent.md)
+    * [🤝 Напарники](scpsl-features/custom-classes/uniq-classes/teammates.md)
     * [😋 Уборщик](scpsl-features/custom-classes/uniq-classes/janitor.md)
     * [🤪 Здоровяк/Карлик](scpsl-features/custom-classes/uniq-classes/big-small-boy.md)
   * [👥 Команды](scpsl-features/custom-classes/custom-teams/README.md)
