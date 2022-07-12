@@ -6,7 +6,7 @@
 
 * [🔫 \[SCP:SL\] Classic](servers/scpsl-classic.md)
 * [🎉 \[SCP:SL\] NoRules](servers/scpsl-norules.md)
-* [☠ \[SCP:SL\] MiniGames](servers/scpsl-minigames/README.md)
+* [☠ \[SCP:SL\] MiniGames](servers/scpsl-deathmatch.md)
   * [🎈 Авто-ивенты](servers/scpsl-minigames/auto-events.md)
 * [🎀 \[SCP:SL\] Sandbox](servers/scpsl-sandbox.md)
 
