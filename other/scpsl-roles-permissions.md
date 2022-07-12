@@ -1,7 +1,7 @@
 # 🆒 \[SCP:SL] Права ролей
 
 {% hint style="danger" %}
-У всех [ролей](../info/ingame-roles.md), кроме администрации, нет доступа к админ панели на [Classic](../servers/scpsl-classic.md), [NoRules](../servers/scpsl-norules.md) и [Deathmatch](../servers/scpsl-deathmatch.md) сервере!
+У всех [ролей](../info/ingame-roles.md), кроме администрации, нет доступа к админ панели на [Classic](../servers/scpsl-classic.md), [NoRules](../servers/scpsl-norules.md) и [Deathmatch](../servers/scpsl-minigames/) сервере!
 {% endhint %}
 
 Касательно [Sandbox](../servers/scpsl-sandbox.md) сервера, права открываются по достижению более высокой роли:\
