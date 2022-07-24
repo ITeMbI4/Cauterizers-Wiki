@@ -57,7 +57,7 @@
   * [👥 Команды](scpsl-features/custom-classes/custom-teams/README.md)
     * [☠ Глобальная Оккультная Коалиция](scpsl-features/custom-classes/custom-teams/global-occult-coalition.md)
     * [😈 Длань Змея](scpsl-features/custom-classes/custom-teams/serpents-hand.md)
-    * [👤 Корпорация Логос](scpsl-features/custom-classes/custom-teams/project-logos.md)
+    * [👤 Проект Логос](scpsl-features/custom-classes/custom-teams/project-logos.md)
     * [♟ Чёрная Королева](scpsl-features/custom-classes/custom-teams/black-queen.md)
     * [🤡 Дети Красного Носа](scpsl-features/custom-classes/custom-teams/childs-of-honkmother.md)
 * [🚪 Особые комнаты](scpsl-features/custom-rooms/README.md)
