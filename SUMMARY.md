@@ -99,4 +99,3 @@
   * [📕 SCP-914-1](other/documents/scp-914-1.md)
   * [📕 Уничтожение Зоны 02](other/documents/zone02-termination.md)
   * [📘 Голубой куб](other/documents/blue-cube.md)
-* [🆒 \[SCP:SL\] Права ролей](other/scpsl-roles-permissions.md)
