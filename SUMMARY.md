@@ -77,6 +77,7 @@
 * [🖥 Системы Сервера](scpsl-features/server-systems/README.md)
   * [🛡 Система Кармы](scpsl-features/server-systems/karma-system.md)
   * [💎 Система Уровней](scpsl-features/server-systems/level-system.md)
+  * [🏆 Система Достижений](scpsl-features/server-systems/achievements-system.md)
   * [🌀 Система Сезонов](scpsl-features/server-systems/seasons-system.md)
   * [🎛 Механики](scpsl-features/server-systems/mechanics/README.md)
     * [💼 Маршалл, Картер и Дарк Ltd.](scpsl-features/server-systems/mechanics/mc\&d.md)
