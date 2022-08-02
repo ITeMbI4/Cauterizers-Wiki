@@ -25,7 +25,7 @@ description: Тип, Топ и другие!
 ???
 
 * Оружие: Лютня
-* Карта: \[REDACTED]
+* Уровень доступа: \[REDACTED]
 * Броня: \[REDACTED]
 {% endtab %}
 
@@ -37,7 +37,7 @@ description: Тип, Топ и другие!
 **???:** ???
 
 * Оружие: \[REDACTED]
-* Карта: \[REDACTED]
+* Уровень доступа: \[REDACTED]
 * Броня: \[REDACTED]
 {% endtab %}
 
@@ -47,7 +47,7 @@ description: Тип, Топ и другие!
 ???
 
 * Оружие: \[REDACTED]
-* Карта: Карта сокровищ
+* Уровень доступа: Карта сокровищ
 * Броня: \[REDACTED]
 {% endtab %}
 {% endtabs %}
