@@ -71,6 +71,7 @@
   * [♨ Коррозионная комната](scpsl-features/custom-rooms/corrosion-room.md)
   * [🏥 Комната с SCP-006](scpsl-features/custom-rooms/scp-006-room.md)
   * [🧟 Комната с SCP-008](scpsl-features/custom-rooms/scp-008-room.md)
+  * [🪝 Комната с SCP-162](scpsl-features/custom-rooms/scp-162-room.md)
   * [🦋 Комната с SCP-408](scpsl-features/custom-rooms/scp-408-room.md)
   * [🧊 Комната с SCP-409](scpsl-features/custom-rooms/scp-409-room.md)
   * [🐦 Комната с SCP-514](scpsl-features/custom-rooms/scp-514-room.md)
