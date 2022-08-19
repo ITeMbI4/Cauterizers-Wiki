@@ -46,6 +46,7 @@
     * [💂 SCP-2490](scpsl-features/custom-classes/chi/scp-2490.md)
     * [👾 Хакер](scpsl-features/custom-classes/chi/hacker.md)
     * [🥷 Шпион Хаоса](scpsl-features/custom-classes/chi/chaos-spy.md)
+    * [🛡 Джаггернаут](scpsl-features/custom-classes/chi/juggernaut.md)
   * [🔦 Обучение](scpsl-features/custom-classes/tut/README.md)
     * [🙄 SCP-279](scpsl-features/custom-classes/tut/scp-279.md)
     * [😇 SCP-343](scpsl-features/custom-classes/tut/scp-343.md)
