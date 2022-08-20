@@ -59,6 +59,7 @@
     * [💉 SCP-542](scpsl-features/custom-classes/scp/scp-542.md)
     * [🐶 SCP-682](scpsl-features/custom-classes/scp/scp-682.md)
     * [😴 SCP-966](scpsl-features/custom-classes/scp/scp-966.md)
+    * [⚫ SCP-1026-RU](scpsl-features/custom-classes/scp/scp-1026-ru.md)
     * [🍌 SCP-2761](scpsl-features/custom-classes/scp/scp-2761.md)
   * [👥 Команды](scpsl-features/custom-classes/custom-teams/README.md)
     * [☠ Глобальная Оккультная Коалиция](scpsl-features/custom-classes/custom-teams/global-occult-coalition.md)
