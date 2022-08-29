@@ -32,6 +32,7 @@
     * [🧐 Старший Научный Сотрудник](scpsl-features/custom-classes/rsc/major-scientist.md)
     * [🧑🔧 Инженер Камер Содержания](scpsl-features/custom-classes/rsc/containment-engineer.md)
     * [🧑⚕ Сотрудник МЕД-отделения](scpsl-features/custom-classes/rsc/med-department-staff.md)
+    * [🎒 Барахольщик](scpsl-features/custom-classes/rsc/hoarder.md)
     * [🤓 Стажёр Научного Персонала](scpsl-features/custom-classes/rsc/trainee-scientist.md)
   * [🔑 Охранник Комплекса](scpsl-features/custom-classes/fgp/README.md)
     * [😎 Менеджер Зоны Содержания](scpsl-features/custom-classes/fgp/containment-zone-manager.md)
