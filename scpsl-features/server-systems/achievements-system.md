@@ -8,5 +8,5 @@
 {% endhint %}
 
 {% hint style="danger" %}
-Для получения любых достижений на сервере должно быть минимум 8 игроков. Также на [Sandbox](../../servers/scpsl-sandbox.md) и [MiniGames](../../servers/scpsl-deathmatch.md) серверах данная система отключена!
+Для получения любых достижений на сервере должно быть минимум 8 игроков. Также на [Sandbox](../../servers/scpsl-sandbox.md) сервере данная система отключена!
 {% endhint %}
