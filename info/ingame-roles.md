@@ -12,10 +12,10 @@
 
 <details>
 
-<summary>Критерии набора Игроков:</summary>
+<summary>Критерии набора Игроков</summary>
 
-* [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **7-го** на сервере;
-* [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **0**.
+* [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **7-го** на сервере
+* [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **0**
 
 </details>
 
@@ -25,32 +25,32 @@
 
 <details>
 
-<summary>Критерии набора Жителей:</summary>
+<summary>Критерии набора Жителей</summary>
 
-* Минимальный возраст **14 лет** (Возможны исключения);
-* Адекватность;
-* [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **20-го** на сервере;
-* [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **0.5**.
-
-</details>
-
-<details>
-
-<summary>Критерии набора Ремесленников:</summary>
-
-* Как минимум быть **Жителем** проекта;
-* [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **32-го** на сервере;
-* [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **1.5**.
+* Минимальный возраст **14 лет** (Возможны исключения)
+* Адекватность
+* [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **20-го** на сервере
+* [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **0.5**
 
 </details>
 
 <details>
 
-<summary>Критерии набора Аристократов:</summary>
+<summary>Критерии набора Ремесленников</summary>
 
-* Как минимум быть **Ремесленником** проекта;
-* [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **45-го** на сервере;
-* [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **2**.
+* Как минимум быть **Жителем** проекта
+* [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **32-го** на сервере
+* [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **1.5**
+
+</details>
+
+<details>
+
+<summary>Критерии набора Аристократов</summary>
+
+* Как минимум быть **Ремесленником** проекта
+* [Уровень](../scpsl-features/server-systems/level-system.md) не ниже **45-го** на сервере
+* [Карма](../scpsl-features/server-systems/karma-system.md) не ниже **2**
 
 </details>
 
