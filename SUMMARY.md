@@ -24,7 +24,6 @@
     * [🤯 SCP-914-1](scpsl-features/custom-classes/cdp/scp-914-1.md)
     * [💪 SCP-914-2](scpsl-features/custom-classes/cdp/scp-914-2.md)
     * [😖 SCP-1257-RU](scpsl-features/custom-classes/cdp/scp-1257-ru.md)
-    * [🤪 Здоровяк/Карлик](scpsl-features/custom-classes/cdp/big-small-boy.md)
   * [📋 Научный Сотрудник](scpsl-features/custom-classes/rsc/README.md)
     * [🤓 SCP-073](scpsl-features/custom-classes/rsc/scp-073.md)
     * [🧐 Старший Научный Сотрудник](scpsl-features/custom-classes/rsc/major-scientist.md)
