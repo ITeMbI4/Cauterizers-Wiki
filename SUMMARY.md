@@ -8,12 +8,6 @@
 * [🎉 \[SCP:SL\] NoRules](servers/scpsl-norules.md)
 * [🎀 \[SCP:SL\] Sandbox](servers/scpsl-sandbox.md)
 
-## Информация <a href="#info" id="info"></a>
-
-* [🕵 Роли в игре](info/ingame-roles.md)
-* [👮 Набор администрации](info/stuff-recruitment.md)
-* [💸 Пожертвования](info/donate.md)
-
 ## Особенности SCP:SL серверов <a href="#scpsl-features" id="scpsl-features"></a>
 
 * [😎 Кастомные классы](scpsl-features/custom-classes/README.md)
