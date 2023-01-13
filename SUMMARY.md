@@ -100,5 +100,5 @@
   * [📕 Уничтожение Зоны 02](other/documents/zone02-termination.md)
   * [📘 Голубой куб](other/documents/blue-cube.md)
 * [❓ Помощь SCP:SL](other/scpsl-help/README.md)
-  * [👾 Часто встречаемые проблемы](other/scpsl-help/fap.md)
   * [📄 Руководство пользователя](other/scpsl-help/user-guide.md)
+  * [👾 Часто встречающиеся проблемы](other/scpsl-help/fap.md)
