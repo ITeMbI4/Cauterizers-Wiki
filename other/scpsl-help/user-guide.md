@@ -126,9 +126,7 @@ X - переключиться на медицинский предмет (на 
 
 <details>
 
-<summary>Что делать, если получаю сообщение по поводу ASN?</summary>
-
-### "The ASN you are connecting from is globally blocked"/"You have been globally banned: Proxy has been detected"
+<summary>Что делать, если получаю сообщение "The ASN you are connecting from is globally blocked"/"You have been globally banned: Proxy has been detected"?</summary>
 
 Если при подключении к серверу вы получили сообщение об ошибке, это означает, что ASN, с которого вы подключаетесь, был глобально забанен. Чтобы больше не получать это сообщение при подключении к серверу, вы должны соответствовать хотя бы ОДНОМУ из следующих критериев:
 
