@@ -95,6 +95,7 @@
 ## Прочее <a href="#other" id="other"></a>
 
 * [🗂 Документация](other/documents/README.md)
+  * [🚀 Арт-хаб](other/documents/art-hub.md)
   * [📗 SC-21/425-22/235](other/documents/sc-21-425-22-235.md)
   * [📕 SCP-914-1](other/documents/scp-914-1.md)
   * [📕 Уничтожение Зоны 02](other/documents/zone02-termination.md)
