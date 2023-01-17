@@ -1,2 +1,6 @@
-# ❓ Помощь SCP:SL
+---
+layout: editorial
+---
+
+# ❓ Помощь по SCP:SL
 

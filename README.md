@@ -1,5 +1,8 @@
 ---
 description: Официальная WIKI
+cover: .gitbook/assets/SCP Banner.png
+coverY: -45
+layout: landing
 ---
 
 # 🔥 Cauterizers
