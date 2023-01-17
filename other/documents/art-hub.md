@@ -1,5 +1,9 @@
 # 🚀 Арт-хаб
 
+{% hint style="info" %}
+За идею такой странички, спасибо Darcy и Icomdir!
+{% endhint %}
+
 <div>
 
 <figure><img src="../../.gitbook/assets/Zone Manager0.png" alt=""><figcaption><p>Менеджер Зоны Содержания</p></figcaption></figure>
@@ -10,7 +14,7 @@
 
  
 
-<figure><img src="../../.gitbook/assets/Zone Manager1.png" alt=""><figcaption><p>Менеджер Зоны Содержания</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Zone Manager1.png" alt=""><figcaption><p>Менеджер Комплекса</p></figcaption></figure>
 
 </div>
 
