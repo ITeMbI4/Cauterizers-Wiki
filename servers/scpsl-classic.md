@@ -1,6 +1,6 @@
 ---
 description: Возрастное ограничение 13+ | FF:ON
-cover: ../.gitbook/assets/Classic Banner.png
+cover: ../.gitbook/assets/Classic Banner
 coverY: 18.929668152550768
 ---
 
