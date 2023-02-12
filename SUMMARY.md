@@ -17,6 +17,7 @@
     * [🥴 SCP-507](scpsl-features/custom-classes/cdp/scp-507.md)
     * [🤯 SCP-914-1](scpsl-features/custom-classes/cdp/scp-914-1.md)
     * [💪 SCP-914-2](scpsl-features/custom-classes/cdp/scp-914-2.md)
+    * [🏃♂ SCP-914-3](scpsl-features/custom-classes/cdp/scp-914-3.md)
     * [😖 SCP-1257-RU](scpsl-features/custom-classes/cdp/scp-1257-ru.md)
   * [📋 Научный Сотрудник](scpsl-features/custom-classes/rsc/README.md)
     * [🤓 SCP-073](scpsl-features/custom-classes/rsc/scp-073.md)
