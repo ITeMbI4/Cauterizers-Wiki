@@ -36,4 +36,8 @@
 
 <figure><img src="../../.gitbook/assets/SCP-914-2" alt=""><figcaption><p>SCP-914-2</p></figcaption></figure>
 
+ 
+
+<figure><img src="../../.gitbook/assets/SCP-914-3" alt=""><figcaption><p>SCP-914-3</p></figcaption></figure>
+
 </div>
