@@ -1,4 +1,4 @@
-# 🚀 Арт-хаб
+# 🖼 Арт-хаб
 
 {% hint style="info" %}
 Спасибо Darcy и Icomdir за дизайн персонажей!
@@ -39,5 +39,9 @@
  
 
 <figure><img src="../../.gitbook/assets/SCP-914-3" alt=""><figcaption><p>SCP-914-3</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/SCP-076" alt=""><figcaption><p>SCP-076</p></figcaption></figure>
 
 </div>
