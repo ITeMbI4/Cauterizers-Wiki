@@ -62,4 +62,4 @@
 Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system.md)!
 {% endhint %}
 
-{% embed url="http://scp-ru.wikidot.com/fsa-data" %}
+{% embed url="https://scpfoundation.net/fsa-data" %}

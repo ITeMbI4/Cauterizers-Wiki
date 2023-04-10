@@ -58,4 +58,4 @@
 Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system.md)!
 {% endhint %}
 
-{% embed url="http://scpfoundation.net/black-queen-hub" %}
+{% embed url="https://scpfoundation.net/black-queen-hub" %}

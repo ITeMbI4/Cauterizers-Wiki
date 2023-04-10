@@ -67,4 +67,4 @@ description: aka. ГОК
 Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system.md)!
 {% endhint %}
 
-{% embed url="http://scpfoundation.net/goc-hub-page" %}
+{% embed url="https://scpfoundation.net/goc-hub-page" %}

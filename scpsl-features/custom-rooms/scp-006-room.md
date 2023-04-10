@@ -22,4 +22,4 @@ description: '[Синее освещение] Источник молодост�
 На появление в раунде влияет [Система Сезонов](../server-systems/seasons-system.md)!
 {% endhint %}
 
-{% embed url="http://scpfoundation.net/scp-006" %}
+{% embed url="https://scpfoundation.net/scp-006" %}

@@ -16,4 +16,4 @@ SCP объекты же испытывают проблемы с ориенти�
 На появление в раунде влияет [Система Сезонов](../server-systems/seasons-system.md)!
 {% endhint %}
 
-{% embed url="http://scp-ru.wikidot.com/scp-514" %}
+{% embed url="https://scpfoundation.net/scp-514" %}
