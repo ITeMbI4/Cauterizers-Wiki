@@ -37,3 +37,7 @@ description: Сумеречный Дух
 {% hint style="danger" %}
 Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system.md)!
 {% endhint %}
+
+{% hint style="success" %}
+Данный класс имеет особое [взаимодействие](../interconnection-of-classes.md) с другим.
+{% endhint %}
