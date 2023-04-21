@@ -77,7 +77,7 @@
   * [🦋 Комната с SCP-408](scpsl-features/custom-rooms/scp-408-room.md)
   * [🧊 Комната с SCP-409](scpsl-features/custom-rooms/scp-409-room.md)
   * [🐦 Комната с SCP-514](scpsl-features/custom-rooms/scp-514-room.md)
-* [🖥 Системы Сервера](scpsl-features/server-systems/README.md)
+* [🖥 Системы сервера](scpsl-features/server-systems/README.md)
   * [⚖ Система Кармы](scpsl-features/server-systems/karma-system.md)
   * [💎 Система Уровней](scpsl-features/server-systems/level-system.md)
   * [🏆 Система Достижений](scpsl-features/server-systems/achievements-system.md)
