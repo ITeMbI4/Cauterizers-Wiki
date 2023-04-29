@@ -16,7 +16,7 @@ coverY: 23.567112431896984
 {% hint style="info" %}
 **NoRules 1**\
 **IP - scp.cauterizers.net:7778**\
-****\
+\
 **NoRules 2**\
 **IP - scp.cauterizers.net:7779**
 {% endhint %}

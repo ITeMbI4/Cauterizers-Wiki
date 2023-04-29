@@ -94,7 +94,6 @@
 ## Особенности Discord сервера <a href="#discord-features" id="discord-features"></a>
 
 * [💎 Система Уровней](discord-features/level-system.md)
-* [🃏 Система Карточек](discord-features/card-system.md)
 
 ## Прочее <a href="#other" id="other"></a>
 
