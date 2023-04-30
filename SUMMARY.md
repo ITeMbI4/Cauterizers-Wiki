@@ -8,7 +8,7 @@
 * [🎉 \[SCP:SL\] NoRules](servers/scpsl-norules.md)
 * [🎀 \[SCP:SL\] Sandbox](servers/scpsl-sandbox.md)
 
-## Особенности SCP:SL серверов <a href="#scpsl-features" id="scpsl-features"></a>
+## Особенности SCP:SL сервера <a href="#scpsl-features" id="scpsl-features"></a>
 
 * [😎 Кастомные классы](scpsl-features/custom-classes/README.md)
   * [🪤 Сотрудник Класса-D](scpsl-features/custom-classes/cdp/README.md)
@@ -77,19 +77,19 @@
   * [🦋 Комната с SCP-408](scpsl-features/custom-rooms/scp-408-room.md)
   * [🧊 Комната с SCP-409](scpsl-features/custom-rooms/scp-409-room.md)
   * [🐦 Комната с SCP-514](scpsl-features/custom-rooms/scp-514-room.md)
+* [🎛 Механики сервера](scpsl-features/server-mechanics/README.md)
+  * [💼 Маршалл, Картер и Дарк Ltd.](scpsl-features/server-mechanics/mc\&d.md)
+  * [🔄 SCP Swap](scpsl-features/server-mechanics/scp-swap.md)
+  * [⬆ Улучшение SCP-207](scpsl-features/server-mechanics/changed-scp-207.md)
+  * [💣 Боеголовка «Омега»](scpsl-features/server-mechanics/omega-warhead.md)
+  * [🧟 SCP-008](scpsl-features/server-mechanics/scp-008.md)
+  * [🎛 SCP-217](scpsl-features/server-mechanics/scp-217.md)
+  * [🔎 Остальные "Мелочи"](scpsl-features/server-mechanics/other.md)
 * [🖥 Системы сервера](scpsl-features/server-systems/README.md)
   * [⚖ Система Кармы](scpsl-features/server-systems/karma-system.md)
   * [💎 Система Уровней](scpsl-features/server-systems/level-system.md)
   * [🏆 Система Достижений](scpsl-features/server-systems/achievements-system.md)
   * [🌀 Система Сезонов](scpsl-features/server-systems/seasons-system.md)
-  * [🎛 Механики](scpsl-features/server-systems/mechanics/README.md)
-    * [💼 Маршалл, Картер и Дарк Ltd.](scpsl-features/server-systems/mechanics/mc\&d.md)
-    * [🔄 SCP Swap](scpsl-features/server-systems/mechanics/scp-swap.md)
-    * [⬆ Улучшение SCP-207](scpsl-features/server-systems/mechanics/changed-scp-207.md)
-    * [💣 Боеголовка «Омега»](scpsl-features/server-systems/mechanics/omega-warhead.md)
-    * [🧟 SCP-008](scpsl-features/server-systems/mechanics/scp-008.md)
-    * [🎛 SCP-217](scpsl-features/server-systems/mechanics/scp-217.md)
-    * [🔎 Остальные "Мелочи"](scpsl-features/server-systems/mechanics/other.md)
 
 ## Особенности Discord сервера <a href="#discord-features" id="discord-features"></a>
 
