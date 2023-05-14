@@ -16,6 +16,7 @@
     * [🥳 SCP-181](scpsl-features/custom-classes/cdp/scp-181.md)
     * [🥴 SCP-507](scpsl-features/custom-classes/cdp/scp-507.md)
     * [🤧 SCP-723-D](scpsl-features/custom-classes/cdp/scp-723-d.md)
+    * [🥪 SCP-913](scpsl-features/custom-classes/cdp/scp-913.md)
     * [🥷 SCP-914-1](scpsl-features/custom-classes/cdp/scp-914-1.md)
     * [💪 SCP-914-2](scpsl-features/custom-classes/cdp/scp-914-2.md)
     * [⚡ SCP-914-3](scpsl-features/custom-classes/cdp/scp-914-3.md)
