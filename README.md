@@ -1,7 +1,7 @@
 ---
 description: Официальная WIKI
-cover: .gitbook/assets/Wiki Banner
-coverY: 44
+cover: .gitbook/assets/Wiki Banner Second
+coverY: 0
 ---
 
 # 🔥 Cauterizers
