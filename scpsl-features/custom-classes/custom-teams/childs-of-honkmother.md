@@ -57,5 +57,5 @@ description: Тип, Топ и другие!
 {% endhint %}
 
 {% hint style="danger" %}
-На появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system.md)!
+На появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system/)!
 {% endhint %}

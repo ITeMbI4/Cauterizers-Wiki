@@ -14,7 +14,7 @@ description: Инфекционный кристалл - Кетер
 {% endhint %}
 
 {% hint style="danger" %}
-На появление в раунде влияет [Система Сезонов](../server-systems/seasons-system.md)!
+На появление в раунде влияет [Система Сезонов](../server-systems/seasons-system/)!
 {% endhint %}
 
 {% embed url="https://scpfoundation.net/scp-409" %}

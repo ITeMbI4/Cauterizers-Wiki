@@ -64,7 +64,7 @@ SCP забираются из инвентаря у Сотрудников Кл�
 {% endhint %}
 
 {% hint style="danger" %}
-На то, какие SCP будут изыматься влияет [Система Сезонов](../server-systems/seasons-system.md)!
+На то, какие SCP будут изыматься влияет [Система Сезонов](../server-systems/seasons-system/)!
 {% endhint %}
 
 {% embed url="http://scp-ru.wikidot.com/marshall-carter-and-dark-hub" %}

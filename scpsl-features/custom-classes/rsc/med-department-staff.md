@@ -44,5 +44,5 @@ description: Людвик П.Д.
 {% endhint %}
 
 {% hint style="danger" %}
-Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system.md)!
+Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system/)!
 {% endhint %}

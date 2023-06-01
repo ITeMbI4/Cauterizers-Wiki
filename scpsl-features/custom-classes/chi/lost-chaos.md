@@ -34,7 +34,7 @@ description: '???'
 {% endhint %}
 
 {% hint style="danger" %}
-Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system.md)!
+Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system/)!
 {% endhint %}
 
 ## Тематическая версия класса
@@ -69,5 +69,5 @@ description: '???'
 {% endhint %}
 
 {% hint style="danger" %}
-Появляется только в [Тематическом Сезоне](../../server-systems/seasons-system.md)!
+Появляется только в [Тематическом Сезоне](../../server-systems/seasons-system/)!
 {% endhint %}

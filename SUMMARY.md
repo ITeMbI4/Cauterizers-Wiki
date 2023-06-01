@@ -90,7 +90,8 @@
   * [⚖ Система Кармы](scpsl-features/server-systems/karma-system.md)
   * [💎 Система Уровней](scpsl-features/server-systems/level-system.md)
   * [🏆 Система Достижений](scpsl-features/server-systems/achievements-system.md)
-  * [🌀 Система Сезонов](scpsl-features/server-systems/seasons-system.md)
+  * [🌀 Система Сезонов](scpsl-features/server-systems/seasons-system/README.md)
+    * [🎉 Тематические Сезоны](scpsl-features/server-systems/seasons-system/thematic-seasons.md)
 
 ## Особенности Discord сервера <a href="#discord-features" id="discord-features"></a>
 

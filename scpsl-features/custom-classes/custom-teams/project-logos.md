@@ -71,7 +71,7 @@ description: Aka. Корпорация Логос
 {% endhint %}
 
 {% hint style="danger" %}
-Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system.md)!
+Также на появление в раунде влияет [Система Сезонов](../../server-systems/seasons-system/)!
 {% endhint %}
 
 {% embed url="https://scpfoundation.net/fsa-data" %}
