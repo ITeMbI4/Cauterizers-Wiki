@@ -64,6 +64,8 @@
     * [🐍 Длань Змея](scpsl-features/custom-classes/custom-teams/serpents-hand.md)
     * [👤 Проект Логос](scpsl-features/custom-classes/custom-teams/project-logos.md)
     * [♟ Чёрная Королева](scpsl-features/custom-classes/custom-teams/black-queen.md)
+    * [🔮 Сапфир](scpsl-features/custom-classes/custom-teams/saphire.md)
+    * [⚙ Церковь Разбитого Бога](scpsl-features/custom-classes/custom-teams/church-of-the-broken-god.md)
     * [🤡 Дети Красного Носа](scpsl-features/custom-classes/custom-teams/childs-of-honkmother.md)
   * [🤝 Взаимосвязь классов](scpsl-features/custom-classes/interconnection-of-classes.md)
 * [🚪 Особые комнаты](scpsl-features/custom-rooms/README.md)

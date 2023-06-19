@@ -14,7 +14,7 @@ coverY: 0
 
 На [**Discord**](https://discord.com/invite/376sEKP2tX) сервере вы сможете узнать самые свежие новости по игре SCP:SL. Также задать интересующие вас вопросы и просто пообщаться.
 
-<div>
+<div data-full-width="false">
 
 <img src=".gitbook/assets/Discord Logo GIF" alt="Стандартное лого проекта">
 
