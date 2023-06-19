@@ -94,7 +94,7 @@ $$Опыт = Монеты ^ 2 * 5$$\
 {% tab title="МОГ - Кастомные команды" %}
 * [Глобальная Оккультная Коалиция](../custom-classes/custom-teams/global-occult-coalition.md)
 * [Проект Логос](../custom-classes/custom-teams/project-logos.md)
-* [Сапфир](../custom-classes/custom-teams/saphire.md)
+* [САПФИР](../custom-classes/custom-teams/saphire.md)
 
 | Действие                                   | Результат (без Системы Кармы/бонусов) |
 | ------------------------------------------ | ------------------------------------- |
