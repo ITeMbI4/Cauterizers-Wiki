@@ -39,7 +39,7 @@ description: aka. MC&D, МКиД
 | SCP-207 (x2)/(x3)       | Эффект Invigorated               |
 | SCP-207? (x1)/(x2)/(x3) | Случайный Эффект                 |
 | SCP-500 (x1)/(x2)/(x3)  | +25/75/100 Макс. HP              |
-| SCP-500 (x2)/(x3)       | Эффект RainbowTaste              |
+| SCP-500 (x2)/(x3)       | Эффект Vitality                  |
 | SCP-1853 (x1)/(x2)      | Повышение до Репрессора/Мародёра |
 {% endtab %}
 
