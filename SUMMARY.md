@@ -12,7 +12,7 @@
 
 * [😎 Кастомные классы](scpsl-features/custom-classes/README.md)
   * [🪤 Сотрудник Класса-D](scpsl-features/custom-classes/cdp/README.md)
-    * [🧛 SCP-076](scpsl-features/custom-classes/cdp/scp-076.md)
+    * [💢 SCP-076](scpsl-features/custom-classes/cdp/scp-076.md)
     * [🥳 SCP-181](scpsl-features/custom-classes/cdp/scp-181.md)
     * [🔄 SCP-202](scpsl-features/custom-classes/cdp/scp-202.md)
     * [🥴 SCP-507](scpsl-features/custom-classes/cdp/scp-507.md)
@@ -24,6 +24,7 @@
     * [😖 SCP-1257-RU](scpsl-features/custom-classes/cdp/scp-1257-ru.md)
   * [📋 Научный Сотрудник](scpsl-features/custom-classes/rsc/README.md)
     * [🤓 SCP-073](scpsl-features/custom-classes/rsc/scp-073.md)
+    * [🧛♂ SCP-083-D](scpsl-features/custom-classes/rsc/scp-083-d.md)
     * [🧐 Старший Научный Сотрудник](scpsl-features/custom-classes/rsc/major-scientist.md)
     * [🧑🔧 Инженер Камер Содержания](scpsl-features/custom-classes/rsc/containment-engineer.md)
     * [🧑⚕ Сотрудник МЕД-отделения](scpsl-features/custom-classes/rsc/med-department-staff.md)
