@@ -18,5 +18,8 @@ coverY: 11
 **IP - scp.cauterizers.net:7778**\
 \
 **NoRules 2**\
-**IP - scp.cauterizers.net:7779**
+**IP - scp.cauterizers.net:7779**\
+\
+**NoRules 3**\
+**IP - scp.cauterizers.net:7780**
 {% endhint %}

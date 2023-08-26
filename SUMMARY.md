@@ -48,6 +48,7 @@
     * [❗ Затерянный Хаосит](scpsl-features/custom-classes/chi/lost-chaos.md)
   * [🔦 Обучение](scpsl-features/custom-classes/tut/README.md)
     * [🧹 Уборщик](scpsl-features/custom-classes/tut/janitor.md)
+    * [👩🦳 SCP-029](scpsl-features/custom-classes/tut/scp-029.md)
     * [🙄 SCP-279](scpsl-features/custom-classes/tut/scp-279.md)
     * [😇 SCP-343](scpsl-features/custom-classes/tut/scp-343.md)
     * [🐸 SCP-999](scpsl-features/custom-classes/tut/scp-999.md)
