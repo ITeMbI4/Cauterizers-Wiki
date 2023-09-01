@@ -14,12 +14,11 @@ coverY: 11
 {% endhint %}
 
 {% hint style="info" %}
-**NoRules 1**\
-**IP - scp.cauterizers.net:7778**\
-\
-**NoRules 2**\
-**IP - scp.cauterizers.net:7779**\
-\
-**NoRules 3**\
-**IP - scp.cauterizers.net:7780**
+**IP адреса для подключения**:
+
+scp.norules1.cauterizers.net
+
+scp.norules2.cauterizers.net
+
+scp.norules3.cauterizers.net
 {% endhint %}

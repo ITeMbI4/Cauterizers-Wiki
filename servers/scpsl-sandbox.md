@@ -14,5 +14,5 @@ coverY: 1
 {% endhint %}
 
 {% hint style="info" %}
-**IP - scp.cauterizers.net:7781**
+**IP адрес для подключения**: scp.sandbox.cauterizers.net
 {% endhint %}

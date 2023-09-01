@@ -15,5 +15,5 @@ coverY: 54.231302625061915
 {% endhint %}
 
 {% hint style="info" %}
-**IP - scp.cauterizers.net:7777**
+**IP адрес для подключения**: scp.classic.cauterizers.net
 {% endhint %}
