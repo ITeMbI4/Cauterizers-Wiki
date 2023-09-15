@@ -41,6 +41,7 @@
     * [👮 Глава Службы Безопасности](scpsl-features/custom-classes/ntf/head-of-security.md)
     * [🕵 Агент O5](scpsl-features/custom-classes/ntf/o5-agent.md)
   * [📡 Повстанцы Хаоса](scpsl-features/custom-classes/chi/README.md)
+    * [🎖 SCP-1962-RU](scpsl-features/custom-classes/chi/scp-1962-ru.md)
     * [💂 SCP-2490](scpsl-features/custom-classes/chi/scp-2490.md)
     * [👾 Хакер](scpsl-features/custom-classes/chi/hacker.md)
     * [🎭 Шпион Хаоса](scpsl-features/custom-classes/chi/chaos-spy.md)
