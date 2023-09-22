@@ -38,6 +38,7 @@
     * [🫂 Напарники](scpsl-features/custom-classes/fgp/teammates.md)
   * [🔍 Девятихвостая Лиса](scpsl-features/custom-classes/ntf/README.md)
     * [🤵 Менеджер Комплекса](scpsl-features/custom-classes/ntf/facility-manager.md)
+    * [👲 Разведчик Комитета по Этике](scpsl-features/custom-classes/ntf/ethics-scout.md)
     * [👮 Глава Службы Безопасности](scpsl-features/custom-classes/ntf/head-of-security.md)
     * [🕵 Агент O5](scpsl-features/custom-classes/ntf/o5-agent.md)
   * [📡 Повстанцы Хаоса](scpsl-features/custom-classes/chi/README.md)
