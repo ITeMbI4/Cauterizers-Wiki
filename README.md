@@ -43,5 +43,5 @@ layout:
 </div>
 
 {% hint style="info" %}
-Спасибо нашему постоянному творческому деятелю - [Darcy\_tt](https://darcytt0.tumblr.com/), за эти прекрасные лого!
+Спасибо нашему творческому деятелю - [Darcy\_0](https://www.tumblr.com/darcytt0), за эти прекрасные лого!
 {% endhint %}
