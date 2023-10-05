@@ -112,7 +112,7 @@
 * [🗂 Документация](other/documents/README.md)
   * [🖼 Арт-хаб](other/documents/art-hub/README.md)
     * [👤 Персонажи](other/documents/art-hub/characters.md)
-    * [🎉 Ивенты](other/documents/art-hub/iventy.md)
+    * [🎉 Ивенты](other/documents/art-hub/events.md)
   * [📗 SC-21/425-22/235](other/documents/sc-21-425-22-235.md)
   * [📕 SCP-914-1](other/documents/scp-914-1.md)
   * [📕 Уничтожение Зоны 02](other/documents/zone02-termination.md)
