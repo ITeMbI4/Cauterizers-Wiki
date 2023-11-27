@@ -20,7 +20,7 @@
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Krejn" alt=""><figcaption><p>Крейн</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Crane" alt=""><figcaption><p>Крейн</p></figcaption></figure>
 
  
 
