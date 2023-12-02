@@ -116,5 +116,5 @@
   * [📗 SC-21/425-22/235](other/documents/sc-21-425-22-235.md)
   * [📕 SCP-914-1](other/documents/scp-914-1.md)
   * [📕 Уничтожение Зоны 02](other/documents/zone02-termination.md)
-  * [📘 Протокол экспериментов 181/1257-B](other/documents/protokol-eksperimentov-181-1257-b.md)
+  * [📘 Протокол экспериментов 181/1257-B](other/documents/181-1257-b-experiment.md)
   * [📘 Голубой куб](other/documents/blue-cube.md)
