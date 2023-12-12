@@ -8,7 +8,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-Информацию о сезоне на разных серверах выводиться командой `/season` на нашем [Discord](https://discord.com/invite/376sEKP2tX) сервере.
+Информация о сезоне на разных серверах выводиться командой `/season` на нашем [Discord](https://discord.com/invite/376sEKP2tX) сервере.
 
 На SCP:SL сервере командой`.season` в пользовательской консоли \~ (Русская Ё).
 {% endhint %}
