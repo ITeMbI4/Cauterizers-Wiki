@@ -55,6 +55,7 @@
     * [😇 SCP-343](scpsl-features/custom-classes/tut/scp-343.md)
     * [🐸 SCP-999](scpsl-features/custom-classes/tut/scp-999.md)
     * [🌱 SCP-1338](scpsl-features/custom-classes/tut/scp-1338.md)
+    * [🛍 SCP-1879](scpsl-features/custom-classes/tut/scp-1879.md)
   * [🗃 SCP](scpsl-features/custom-classes/scp/README.md)
     * [🧬 SCP-062-FR](scpsl-features/custom-classes/scp/scp-062-fr.md)
     * [🥩 SCP-082](scpsl-features/custom-classes/scp/scp-082.md)
