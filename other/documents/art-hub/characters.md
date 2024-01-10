@@ -45,3 +45,13 @@
 <figure><img src="../../../.gitbook/assets/SCP-076" alt=""><figcaption><p>SCP-076</p></figcaption></figure>
 
 </div>
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/SCP-507" alt=""><figcaption><p>SCP-507</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/SCP-507 Concept" alt=""><figcaption><p>Концепт SCP-507</p></figcaption></figure>
+
+</div>
