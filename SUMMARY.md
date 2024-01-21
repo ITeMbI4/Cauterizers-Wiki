@@ -12,6 +12,7 @@
 
 * [😎 Кастомные классы](scpsl-features/custom-classes/README.md)
   * [🪤 Сотрудник Класса-D](scpsl-features/custom-classes/cdp/README.md)
+    * [🪞 SCP-056](scpsl-features/custom-classes/cdp/scp-056.md)
     * [💢 SCP-076](scpsl-features/custom-classes/cdp/scp-076.md)
     * [🥳 SCP-181](scpsl-features/custom-classes/cdp/scp-181.md)
     * [🔄 SCP-202](scpsl-features/custom-classes/cdp/scp-202.md)
