@@ -4,6 +4,6 @@
 Среди персонала ходят слухи, что, возможно, нужно принести подношения или даже жертву... но это всё лишь сказки.\
 _Слава голубому кубу!_
 
-![](../../.gitbook/assets/Cube)
+![](../../.gitbook/assets/Cube.png)
 
-{% file src="../../.gitbook/assets/BlueCube" %}
+{% file src="../../.gitbook/assets/BlueCube.mp4" %}

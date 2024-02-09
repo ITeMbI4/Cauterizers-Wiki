@@ -1,6 +1,6 @@
 ---
 description: Возрастное ограничение 13+ | FF:OFF
-cover: ../.gitbook/assets/NoRules Banner Second
+cover: ../.gitbook/assets/NoRules Banner Second.png
 coverY: 11
 ---
 
