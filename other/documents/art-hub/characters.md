@@ -46,6 +46,8 @@
 
 </div>
 
+<figure><img src="../../../.gitbook/assets/Ludvik Concept.png" alt=""><figcaption><p>Концепт Сотрудника МЕД-отделения</p></figcaption></figure>
+
 <div>
 
 <figure><img src="../../../.gitbook/assets/SCP-507.png" alt=""><figcaption><p>SCP-507</p></figcaption></figure>
@@ -55,3 +57,4 @@
 <figure><img src="../../../.gitbook/assets/SCP-507 Concept.png" alt=""><figcaption><p>Концепт SCP-507</p></figcaption></figure>
 
 </div>
+
