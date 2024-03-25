@@ -46,7 +46,15 @@
 
 </div>
 
+<div>
+
 <figure><img src="../../../.gitbook/assets/Ludvik Concept.png" alt=""><figcaption><p>Концепт Сотрудника МЕД-отделения</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Hacker Concept.png" alt=""><figcaption><p>Концепт Хакера</p></figcaption></figure>
+
+</div>
 
 <div>
 
@@ -58,3 +66,4 @@
 
 </div>
 
+<figure><img src="../../../.gitbook/assets/SCP-2490 Concept.png" alt="" width="375"><figcaption><p>Концепт SCP-2490</p></figcaption></figure>
