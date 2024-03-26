@@ -1,7 +1,7 @@
 ---
 description: Возрастное ограничение 13+ | FF:ON
-cover: ../.gitbook/assets/Classic Banner Second.png
-coverY: 54.231302625061915
+cover: ../.gitbook/assets/Classic Banner.png
+coverY: 70
 ---
 
 # 🔫 \[SCP:SL] Classic
