@@ -1,7 +1,7 @@
 ---
 description: Возрастное ограничение 0+ | FF:ON
 cover: ../.gitbook/assets/Sandbox Banner.png
-coverY: -18
+coverY: -1.3480000000000016
 ---
 
 # 🎀 \[SCP:SL] Sandbox

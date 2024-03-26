@@ -1,7 +1,7 @@
 ---
 description: Возрастное ограничение 13+ | FF:OFF
 cover: ../.gitbook/assets/NoRules Banner.png
-coverY: -3
+coverY: -56.30509329299042
 ---
 
 # 🎉 \[SCP:SL] NoRules
