@@ -1,7 +1,7 @@
 ---
 description: Официальная WIKI
 cover: .gitbook/assets/Wiki Banner.png
-coverY: -598
+coverY: -421.8385160938352
 layout:
   cover:
     visible: true
