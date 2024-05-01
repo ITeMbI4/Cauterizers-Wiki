@@ -92,7 +92,7 @@
   * [🧊 Комната с SCP-409](scpsl-features/custom-rooms/scp-409-room.md)
   * [🐦 Комната с SCP-514](scpsl-features/custom-rooms/scp-514-room.md)
 * [🎛️ Механики сервера](scpsl-features/server-mechanics/README.md)
-  * [💼 Маршалл, Картер и Дарк Ltd.](scpsl-features/server-mechanics/mc\&d.md)
+  * [💼 Маршалл, Картер и Дарк Ltd.](scpsl-features/server-mechanics/mc-and-d.md)
   * [💣 Боеголовка «Омега»](scpsl-features/server-mechanics/omega-warhead.md)
   * [🔄 SCP Swap](scpsl-features/server-mechanics/scp-swap.md)
   * [🧟 SCP-008](scpsl-features/server-mechanics/scp-008.md)
