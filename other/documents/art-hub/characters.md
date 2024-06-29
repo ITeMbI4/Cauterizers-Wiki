@@ -48,22 +48,30 @@
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Ludvik Concept.png" alt=""><figcaption><p>Концепт Сотрудника МЕД-отделения</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCP-507.png" alt="" width="563"><figcaption><p>SCP-507</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Hacker Concept.png" alt=""><figcaption><p>Концепт Хакера</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SCP-507 Concept.png" alt="" width="563"><figcaption><p>Концепт SCP-507</p></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/SCP-507.png" alt=""><figcaption><p>SCP-507</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Ludvik Concept.png" alt="" width="563"><figcaption><p>Концепт Сотрудника МЕД-отделения</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/SCP-507 Concept.png" alt=""><figcaption><p>Концепт SCP-507</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Hacker Concept.png" alt="" width="563"><figcaption><p>Концепт Хакера</p></figcaption></figure>
 
 </div>
 
-<figure><img src="../../../.gitbook/assets/SCP-2490 Concept.png" alt="" width="375"><figcaption><p>Концепт SCP-2490</p></figcaption></figure>
+<div>
+
+<figure><img src="../../../.gitbook/assets/SCP-2490 Concept.png" alt=""><figcaption><p>Концепт SCP-2490</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Juggernaut Concept.png" alt=""><figcaption><p>Концепт Джаггернаута</p></figcaption></figure>
+
+</div>
