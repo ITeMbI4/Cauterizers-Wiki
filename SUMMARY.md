@@ -2,13 +2,13 @@
 
 * [🔥 Cauterizers](README.md)
 
-## Сервера <a href="#servers" id="servers"></a>
+## 🖥️ Сервера <a href="#servers" id="servers"></a>
 
 * [🔫 \[SCP:SL\] Classic](servers/scpsl-classic.md)
 * [🎉 \[SCP:SL\] NoRules](servers/scpsl-norules.md)
 * [🎀 \[SCP:SL\] Sandbox](servers/scpsl-sandbox.md)
 
-## Особенности SCP:SL сервера <a href="#scpsl-features" id="scpsl-features"></a>
+## ⚔️ Особенности SCP:SL <a href="#scpsl-features" id="scpsl-features"></a>
 
 * [😎 Кастомные классы](scpsl-features/custom-classes/README.md)
   * [🪤 Сотрудник Класса-D](scpsl-features/custom-classes/cdp/README.md)
@@ -105,7 +105,7 @@
   * [🌀 Система Сезонов](scpsl-features/server-systems/seasons-system/README.md)
     * [🎉 Тематические Сезоны](scpsl-features/server-systems/seasons-system/thematic-seasons.md)
 
-## Особенности Discord сервера <a href="#discord-features" id="discord-features"></a>
+## 📡 Особенности Discord <a href="#discord-features" id="discord-features"></a>
 
 * [💎 Система Уровней](discord-features/level-system.md)
 
