@@ -1,6 +1,6 @@
 ---
 description: Официальная WIKI
-cover: .gitbook/assets/Wiki Banner.png
+cover: broken-reference
 coverY: -375.83549037522704
 layout:
   cover:
@@ -30,15 +30,15 @@ layout:
 
 <div data-full-width="false">
 
-<img src=".gitbook/assets/Discord Logo GIF.gif" alt="Стандартное лого проекта">
+<img src="broken-reference" alt="Стандартное лого проекта">
 
  
 
-<figure><img src=".gitbook/assets/Discord Logo Halloween GIF.gif" alt=""><figcaption><p>Лого проекта на Хэллоуин </p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Лого проекта на Хэллоуин </p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/Discord Logo Christmas GIF.gif" alt=""><figcaption><p>Лого проекта на Рождество</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Лого проекта на Рождество</p></figcaption></figure>
 
 </div>
 
